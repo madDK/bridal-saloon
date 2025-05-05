@@ -1,4 +1,4 @@
-# Salon Management System
+# Bridal Salon Management System
 
 Salon Management System is a web-based application developed to assist salon owners and managers in efficiently managing their salon operations. This system is designed with various technologies to provide a user-friendly and feature-rich experience.
 
